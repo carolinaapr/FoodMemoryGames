@@ -1,0 +1,42 @@
+:root {
+    --primary:#EECDA3;
+    --secondary: #EF629F;
+}
+
+html{
+    background-image: linear-gradient(to right, #EECDA3 , #EF629F)
+}
+body{
+    overflow-x: hidden;
+}
+
+#grid{
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    margin: 0.5px;
+    padding: 0.5px;
+}
+
+audio{
+    justify-content: center !important;
+    transform: translate(0vh,20vh);
+}
+
+h3{
+    text-align: center;
+    font-family: 'Gill Sans', sans-serif;
+    color: white;
+    margin: 0;
+}

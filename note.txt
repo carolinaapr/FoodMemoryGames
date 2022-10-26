@@ -1,0 +1,17 @@
+Memory Games using JavaScript method.
+the following JavaScript method:
+.queerySelector()
+.Math.random()
+.length
+.createElement()
+.setAttribute()
+.append()
+.appendChild()
+.getAttribute()
+alert()
+.push()
+setTimeout()
+queerySelectorAll()
+addEventListener()
+removeEventListener()
+textContent
